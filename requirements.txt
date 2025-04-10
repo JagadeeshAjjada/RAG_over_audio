@@ -1,0 +1,6 @@
+assemblyai>=0.17.0
+langchain
+sentence-transformers>=2.2.2
+chromadb>=0.4.8
+python-dotenv>=1.0.0
+llama-cpp-python
